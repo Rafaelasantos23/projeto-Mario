@@ -1,0 +1,73 @@
+@media screen and (max-width:900px) {
+
+    .img-cap {
+        display: none;
+    }
+
+
+    .navigation {
+        width: 15px;
+        height: auto;
+        font-size: 8px;
+        column-gap: 15px;
+        align-items: center;
+        justify-content: center;
+
+        margin-left: 180px;
+
+
+    }
+
+    .navigation-link {
+        font-size: 8px;
+        font-weight: bolder;
+        letter-spacing: 1px;
+        text-transform: uppercase;
+        transition: font-size 0.3s;
+
+    }
+
+
+    .navigation-social {
+
+        display: none;
+    }
+
+    .img-movie {
+        display: block;
+
+        margin-left: 100px;
+
+        align-items: center;
+
+        width: 200px;
+        height: auto
+    }
+
+    .img-marioEluigi {
+        display: none;
+    }
+
+    p {
+
+        font-size: 8px;
+        display: grid;
+        margin: 2px 6px;
+
+        text-align: center;
+        justify-content: center;
+
+    }
+
+    button {
+        margin-left: 5px;
+        font-size: 10px;
+        width: auto;
+        height: 70px;
+
+    }
+
+
+
+
+}

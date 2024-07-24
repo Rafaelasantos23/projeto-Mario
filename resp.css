@@ -1,73 +1,65 @@
-@media screen and (max-width:900px) {
-
-    .img-cap {
-        display: none;
+@media screen and (max-width:890px){
+    *{
+        font-size: 15px;
     }
 
+    .img-movie{
+        margin-top: 0px;
+        padding-top: 0px;
+    width: 200px; 
+}
 
-    .navigation {
-        width: 15px;
-        height: auto;
-        font-size: 8px;
-        column-gap: 15px;
-        align-items: center;
+
+}
+
+@media screen and (max-width:815px){
+    *{
+        font-size: 12px;
+
+    }
+
+.navigation{
+    display: none;
+}
+
+.navigation-social{
+    display: none;
+}
+
+.img-cap{
+    display: none;
+}
+
+.img-marioEluigi{
+    display: none;
+}
+}
+
+
+@media screen and (max-width:600px){
+
+    .main-info{
+        width: 380px;
         justify-content: center;
-
-        margin-left: 180px;
-
-
+       text-align: center;
     }
 
-    .navigation-link {
-        font-size: 8px;
-        font-weight: bolder;
-        letter-spacing: 1px;
-        text-transform: uppercase;
-        transition: font-size 0.3s;
+  .paragrafo-principal{font-size: 8px;
 
-    }
+}
+}
 
+@media screen and (max-width:420px){
 
-    .navigation-social {
-
-        display: none;
-    }
-
-    .img-movie {
-        display: block;
-
-        margin-left: 100px;
-
-        align-items: center;
-
-        width: 200px;
-        height: auto
-    }
-
-    .img-marioEluigi {
-        display: none;
-    }
-
-    p {
-
-        font-size: 8px;
-        display: grid;
-        margin: 2px 6px;
-
-        text-align: center;
+    .main-info{
+        width: 300px;
         justify-content: center;
-
+       text-align: center;
     }
 
-    button {
-        margin-left: 5px;
-        font-size: 10px;
-        width: auto;
-        height: 70px;
-
-    }
-
-
+  .paragrafo-principal{font-size: 6px;
+    
+}
 
 
 }

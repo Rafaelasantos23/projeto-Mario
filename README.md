@@ -1,4 +1,4 @@
-<h1>Projeto Filme Mario Bros</h1>
+h1>Projeto Filme Mario Bros</h1>
 <p>
 Bem-vindo ao meu projeto do filme Mario Bros, desenvolvido com HTML e CSS! Este projeto é uma representação visual inspirada no icônico jogo e filme do Mario Bros.
 
